@@ -9,6 +9,7 @@ gem 'rspec'
 gem 'ostruct'
 gem 'win32ole'
 gem 'logger'
+gem 'fiddle'
 
 
 

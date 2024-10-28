@@ -42,6 +42,7 @@ GEM
     cucumber-tag-expressions (6.1.0)
     diff-lcs (1.5.1)
     ffi (1.17.0-x64-mingw-ucrt)
+    fiddle (1.1.2)
     logger (1.6.1)
     matrix (0.4.2)
     mini_mime (1.1.5)
@@ -89,6 +90,7 @@ PLATFORMS
 DEPENDENCIES
   capybara
   cucumber
+  fiddle
   logger
   ostruct
   rspec
