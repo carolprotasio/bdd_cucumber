@@ -13,6 +13,10 @@
   Este projeto é ideal para exemplificar uma abordagem prática de BDD, em que requisitos do sistema são especificados de maneira acessível para todos os envolvidos, desde desenvolvedores até profissionais de negócios e stakeholders. 
   Além disso, este projeto foi desenvolvido como parte do curso "BDD Discover" da **QAxperience**, um treinamento completo que explora BDD, Gherkin e automação de testes, proporcionando uma visão sólida e prática dos conceitos e permitindo que sejam aplicados diretamente no código.
 
+<img src="https://github.com/carolprotasio/bdd_cucumber/blob/main/assets/starbugs.png" alt="web" width="500"/>
+<img src="https://github.com/carolprotasio/bdd_cucumber/blob/main/assets/order.png" alt="web" width="500"/>
+
+
 ## 🛠️ Tecnologias Utilizadas
 
 As seguintes tecnologias e ferramentas foram usadas neste projeto:
